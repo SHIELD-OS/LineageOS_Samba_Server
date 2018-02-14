@@ -1,7 +1,7 @@
 <resources>
 
     <!-- Main -->
-    <string name="app_name">LineageOS Network Share Server</string>
+    <string name="app_name">LOS Samba Server</string>
     <string name="browse_title"><![CDATA[SMBTV]]></string>
     <string name="share">Shares</string>
     <string name="server">Server</string>
